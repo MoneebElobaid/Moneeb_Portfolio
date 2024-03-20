@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Discover Countries",
+        "image": "/assets/projects_images/discover-countries.png",
+        "technologies": ["React", "Sass", "Api"],
+        "gihubLink": "https://github.com/MoneebElobaid/where_in_the_world",
+        "live": "https://discover-countries.netlify.app"
+    },
+    {
+        "id": 2,
+        "name": "Quizzical Trivia",
+        "image": "/assets/projects_images/quizzical-trivia.png",
+        "technologies": ["React", "Api"],
+        "gihubLink": "https://github.com/MoneebElobaid/Quizzical-Trivia",
+        "live": "https://quizzicaltriviaapp.netlify.app"
+    },
+    {
+        "id": 3,
+        "name": "Tenzies Game",
+        "image": "/assets/projects_images/tenzies.png",
+        "technologies": ["React"],
+        "gihubLink": "https://github.com/MoneebElobaid/Tenzies",
+        "live": "https://tenziesgameusingreact.netlify.app"
+    },
+    {
+        "id": 4,
+        "name": "Products Management System",
+        "image": "/assets/projects_images/products-management.png",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "gihubLink": "https://github.com/MoneebElobaid/CRUDS",
+        "live": "https://products-manager.netlify.app"
+    }
+]
